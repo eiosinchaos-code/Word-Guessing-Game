@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/wordGameStart.unity
+    guid: c99c4934d90e71d49aa04b84d1f3a4b8
+  - enabled: 1
+    path: Assets/Scenes/Preferences.unity
+    guid: d3fbed300d883ef45aa4bee5f9e3a5f4
+  - enabled: 1
+    path: Assets/Scenes/wordGame.unity
+    guid: 64ac72fe7605c094d97cac8dc57313fa
+  - enabled: 1
+    path: Assets/Scenes/wordGameWin.unity
+    guid: 19b092da56479604bbd0c68fad8ba144
+  - enabled: 1
+    path: Assets/Scenes/wordGameEnd.unity
+    guid: b25a3ea8bdea6eb48adc5a5595f035da
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
